@@ -149,12 +149,14 @@ h6 {
 
 .header__logo {
   position: relative;
+  width: 300px;
+  height: auto;
 }
 
 .header__logo .logo {
   position: absolute;
-  left: -50px;
-  top: -32px;
+  left: -55px;
+  top: -34px;
   -webkit-transform: scale(0.7);
           transform: scale(0.7);
 }

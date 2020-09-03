@@ -72,11 +72,15 @@ h6 {
   }
   &__logo {
     position: relative;
+    width: 300px;
+    height: auto;
 
     .logo{
       position: absolute;
-      left: -50px;
-      top: -32px;
+      left: -55px;
+      // top: 0;
+      top: -34px;
+      // // left: -150px;
       transform: scale(.7);
     }
    
